@@ -33,6 +33,7 @@ Interested in becoming a Defender?
 Please join the Defender Community
 
 Whatsapp - https://chat.whatsapp.com/KCFAV48tI7bEVN3GGcdKHO?s=cl&p=i&ilr=2&amv=1
+
 Discord - https://discord.gg/uuAVjYsQfS
 
 AI can write code. But who validates the validator? At Devzy, the answer is: you.
